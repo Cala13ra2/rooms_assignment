@@ -1,0 +1,233 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background: url(./images/apartment-bed-bedroom-chair-271618\ 1.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header nav{
+    display: flex;
+    justify-content: space-between;
+}
+header div{
+    margin: 0 100px;
+}
+header nav ul{
+ list-style: none;
+ display: flex;
+}
+header nav ul li{
+    display: flex;
+    padding-right: 100px;
+    text-transform: capitalize;
+    color: white;
+ padding-top: 40px;
+}
+h1, h2, h3{
+   text-transform: uppercase;
+}
+.text_box{
+    cursor: pointer;
+}
+.text_box{
+    font-family: var(monteserif);
+    margin: 100px 90px;
+    
+}
+nav ul li{
+    cursor: pointer;
+}
+nav ul li:hover{
+    border-bottom: #E0B973;
+
+}
+ header .book_now{
+    text-align: center;
+    margin-top: 0%;
+}
+.book_now img{
+    width: 150px;
+    height: auto;
+}
+.scroll{
+    padding: 0 auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.scroll img{
+    width: 40px;
+}
+
+.text_box_two{
+    margin: 70px 230px;
+    color: #14274A;
+   
+}
+.text_box_two h2{
+    margin-left: 270px;
+    color: #14274A;
+    font-weight: bold;  
+}
+.br_one{
+    margin-left: 35px;
+    font-family: serif;
+}
+.br_two{
+    margin-left: 60px;
+}
+.bgi{
+    background-image: url(./images/devon-janse-van-rensburg-_WEDFTZV0qU-unsplash\ 1.png);
+    height: 128vh;
+    background-size:contain ;
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+.single_room{
+    color: white;
+    width: 1150px;
+    height: 100px;
+    background-color: #14274A;
+    margin: 0px 50px;
+    padding-left: 450px;
+    padding-top: 30px; 
+    font-size: 25px;
+}
+.room_bookings{
+    display: flex;
+    justify-content: space-around;
+    border: 0.5px solid #14274A;
+    border-radius: 7px;
+    margin-left: 50px;
+    margin-right: 57px;
+    margin-top: 0;
+}
+.view_room{
+    margin-top: 50px;
+    margin-left: 10px;
+    text-transform: uppercase; 
+    display: flex;  
+}
+.view_room img{
+    width: 40px;
+}
+.view_room p{
+    margin-top: 35px;
+    margin-left: 30px;
+    color: #14274A;
+}
+.price{
+    margin-top: 50px;
+}
+.bgi_two{
+ background-image: url(./images/Mask\ Group\ \(1\).png);
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100vh;
+ padding-bottom: 0%;
+ margin: 0px 50px;
+ margin-top: 100px;
+}
+.bgi_two img{
+    margin-top: 550px;
+    margin-left: 500px;
+}
+.double_room{
+    background-color: #14274A;
+    margin: 0px 50px;
+    height: 100px;
+    color: white;
+    padding-left:  450px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+.bgi_three{
+    background-image: url(./images/twin\ room.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 128.8vh;
+    padding-bottom: 0%;
+    margin: 0px 50px;
+    margin-top: 100px;
+   }
+
+   .twin_room{
+       background-color: #14274A;
+       margin: 0px 50px;
+       height: 100px;
+       color: white;
+       padding-left:  450px;
+       padding-top: 30px;
+       font-size: 25px;
+   }
+   .first_foot{
+    margin: 70px 230px;
+   }
+   .first_foot h3{
+    margin-left: 300px;
+    color: #14274A;
+    text-transform: capitalize;
+    font-size: 30px;
+   }
+   .Calm{
+    margin-left: 150px;
+    font-size: 20px;
+    font-style: italic;
+   }
+   .UK{
+    margin-left: 300px;
+    font-weight: normal;
+    font-size: 15px;
+   }
+.arrows{
+    margin-left: 320px;
+    margin-top: 10px;
+}
+/*.parent{
+     background-color: #14274A;
+    height:40vh;
+    position: relative;
+}
+*/
+.parent{
+    background-color: #14274A;
+    height: 40vh;
+    position: relative;
+}
+.shape{   
+    background-color: #14274A;
+    height: 100px;
+    width: 99px;
+    position: absolute;
+    bottom: 155px;
+    rotate: 45deg;
+    left: 45%;
+}
+.footer_container{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding-top: 60px;
+    
+}
+.fourth_footer input{
+    border:2px solid #E0B973;
+}
+.footer_container button{
+    margin-left: 0px;
+    background-color: #E0B973;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+ 
